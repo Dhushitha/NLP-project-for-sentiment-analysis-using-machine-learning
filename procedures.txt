@@ -1,0 +1,6 @@
+first run this command:
+python -m pip install nltk pandas scikit-learn
+python -m pip install matplotlib seaborn
+
+pip install streamlit
+python -m streamlit run app.py

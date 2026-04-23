@@ -1,0 +1,36 @@
+Intro: 
+Our project is Sentiment Analysis using Natural Language Processing.
+The goal is to classify text reviews into positive or negative sentiments.
+We used machine learning techniques to automatically analyze user opinions.
+
+What dataset used:
+We used the IMDB dataset which contains 50,000 movie reviews labeled as positive and negative.
+It is a balanced dataset commonly used for NLP tasks.
+
+what is NLP?
+Natural Language Processing is a field of AI that helps computers understand and process human language.
+
+what is TF-IDF?
+TF-IDF converts text into numerical form by measuring how important a word is in a document relative to the dataset.
+
+what model used?
+We used Logistic Regression for classification because it is simple, fast, and performs well for text data.
+
+what accuract I got?
+Our model achieved around 89% accuracy, showing good performance in classifying sentiments.
+
+what is confusion matrix?
+A confusion matrix shows the number of correct and incorrect predictions made by the model.
+Diagonal values represent correct predictions.
+
+Advantage of my model?
+The model is simple, fast, and gives good accuracy.
+It can be easily applied to real-world applications like product review analysis.
+
+Limitations:
+The model may not understand sarcasm or complex language.
+It also depends on the quality of training data.
+
+Future Improvements:
+We can improve the model using deep learning techniques like LSTM or transformers such as BERT for better accuracy.
+
